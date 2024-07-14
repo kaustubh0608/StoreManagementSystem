@@ -1,8 +1,10 @@
 # StoreManagementSystem
 Description
+
 The Store Management System is a comprehensive console-based application developed in Java, designed to streamline the management of products in a retail store. This system provides a user-friendly interface that allows store managers to efficiently handle various product-related operations. Whether you are managing a small local shop or a larger retail business, this application aims to make inventory management straightforward and error-free.
 
 Key Functionalities:
+
 Add New Products: Seamlessly add new products to the inventory by specifying essential details such as product ID, name, quantity, price, and discount.
 Remove Existing Products: Easily remove products from the inventory using their unique product ID, ensuring that the product list is always up-to-date.
 Check Product Availability: Quickly check whether a specific product is available in stock, helping you manage customer inquiries effectively.
